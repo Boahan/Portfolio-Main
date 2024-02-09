@@ -371,7 +371,7 @@ export const projects = [
     description:
       "Designed and developed weather app. It is a dynamic and interactive web app. It allows users to seamlessly interact with real-time and forecasted weather information.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+      "https://private-user-images.githubusercontent.com/111555189/303759323-48556054-be83-4a91-b11e-ee772b5cd718.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc1MTUxOTEsIm5iZiI6MTcwNzUxNDg5MSwicGF0aCI6Ii8xMTE1NTUxODkvMzAzNzU5MzIzLTQ4NTU2MDU0LWJlODMtNGE5MS1iMTFlLWVlNzcyYjVjZDcxOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwOVQyMTQxMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YjVjOTE2ZGVmOWIxMWE1MjZjNjY0ZDIwODdlM2QwY2UxMjA3NGJmYzkwNGEzN2I4NDM3ZWIzZjRmMzExODAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.UJiEv2nJXXRf6XhGoBdTO9zpJVjSbp8mrxVJqBQvzMo",
     tags: ["HTML","CSS", "JavaScript", "API"],
     category: "web app",
     github: "https://github.com/Boahan/weather-web-app",
